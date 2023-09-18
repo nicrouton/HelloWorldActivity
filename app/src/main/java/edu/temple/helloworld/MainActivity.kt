@@ -1,3 +1,7 @@
+/* Nicholas Croulet
+Assignment 1
+CIS 3515
+ */
 package edu.temple.helloworld
 
 import androidx.appcompat.app.AppCompatActivity
@@ -34,11 +38,6 @@ class MainActivity : AppCompatActivity() {
             displayTextView.text = editMessage
         }
 
-
-
-
-        
-        // Respond to button click event per specifications
 
 
     }
